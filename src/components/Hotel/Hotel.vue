@@ -1,5 +1,5 @@
 <template>
-  <div id="hotel">我是酒店</div>
+  <div>hotel</div>
 </template>
 
 <script>
